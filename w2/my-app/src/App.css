@@ -1,0 +1,9 @@
+html {
+  text-align: center;
+  background-color: black;
+}
+
+div {
+  padding: 20px;
+  border: double 12px;  
+}
