@@ -11,6 +11,27 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
+
+function newFunction() {
+  return (
+      <div>
+      <input type="checkbox" />
+      <p>Placeholder text here</p>
+
+      <input type="checkbox" />
+      <p>Placeholder text here</p>
+
+      <input type="checkbox" />
+      <p>Placeholder text here</p>
+
+      <input type="checkbox" />
+      <p>Placeholder text here</p>
+      </div>
+  )
+}
+
+export default App
+
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
