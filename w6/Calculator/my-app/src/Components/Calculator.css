@@ -1,0 +1,35 @@
+.result {
+    border: thick solid blueviolet;
+    background-color: rgb(119, 224, 243);
+    padding: 10px;
+    height: 100px;
+    font-size: 75px;
+}
+
+.calculatorBody {
+    padding: 15px;
+    margin: 15px;
+    width: 600px;
+}
+
+.buttonCluster {
+    background-image: url(https://as2.ftcdn.net/jpg/02/99/08/87/500_F_299088722_GwlWkoAbBHuIULsLPPrf4VWLVQw9yQk5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border: thick solid blueviolet;
+    text-align: center;
+    padding: 15px;
+}
+
+button {
+    background-color: rgb(235, 154, 255);
+    margin: 10px;
+    height: 95px;
+    width: 95px;
+    font-size: 35px;
+}
+
+button:hover {
+    box-shadow: 2px 3px 5px whitesmoke;
+}
